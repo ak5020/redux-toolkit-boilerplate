@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="122px" viewBox="0 0 120 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 11</title>
+    <g id="Marketplace" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Empty-Search-State" transform="translate(-825.000000, -100.000000)">
+            <g id="Group-11" transform="translate(825.000000, 100.000000)">
+                <ellipse id="Oval" fill="#9CA3AF" fill-rule="nonzero" opacity="0.05" cx="59.5" cy="58.4468695" rx="58.5" ry="58.4468695"></ellipse>
+                <ellipse id="Oval" stroke="#9CA3AF" stroke-width="2" fill="#F3F4F6" fill-rule="nonzero" cx="59" cy="58.9464153" rx="34" ry="33.9691207"></ellipse>
+                <ellipse id="Oval" stroke="#9CA3AF" stroke-width="2" fill="#FFFEFF" fill-rule="nonzero" cx="59" cy="58.9464153" rx="24" ry="23.9782029"></ellipse>
+                <path d="M59,40.6231898 C59,40.2526879 58.70141,39.9511511 58.3335687,39.9640717 C53.7283165,40.125868 49.3275478,41.9598603 45.9523034,45.1396583 C42.5769771,48.3195385 40.4680421,52.6182488 40.0033144,57.2328978 C39.9661951,57.6015068 40.2454078,57.9213136 40.6126768,57.9458382 C40.9799457,57.9702805 41.2961143,57.6901409 41.3342148,57.3216142 C41.7759677,53.0467701 43.7347902,49.0663853 46.8631174,46.1192415 C49.9914446,43.1720976 54.066724,41.4678056 58.3335687,41.3065854 C58.70141,41.2927595 59,40.9936916 59,40.6231898 Z" id="Path" fill="#D1D5DB" fill-rule="nonzero"></path>
+                <path d="M101.867088,86.7418458 C105.020067,86.7432782 107.575704,89.2989151 107.577136,92.4518942 L107.587508,115.281716 C107.588939,118.430994 105.037105,120.985148 101.887827,120.986579 C101.8861,120.986579 101.884373,120.986579 101.882646,120.986579 C98.7296664,120.985146 96.1740295,118.429509 96.1725971,115.27653 L96.1622252,92.4467083 C96.1607944,89.2974305 98.7126286,86.7432766 101.861906,86.7418458 C101.863634,86.741845 101.865361,86.741845 101.867088,86.7418458 Z" id="Rectangle" stroke="#D1D5DB" stroke-width="2" fill="#F1F1F1" fill-rule="nonzero" transform="translate(101.874867, 103.864212) rotate(-45.000000) translate(-101.874867, -103.864212) "></path>
+                <path d="M103.047825,96.0294253 C103.48662,96.0296246 103.842284,96.3852889 103.842484,96.8240845 L103.847814,108.555384 C103.848013,108.993665 103.492878,109.349123 103.054597,109.349322 C103.054357,109.349322 103.054116,109.349322 103.053876,109.349322 C102.61508,109.349122 102.259416,108.993458 102.259217,108.554662 L102.253887,96.8233628 C102.253688,96.3850823 102.608823,96.0296244 103.047103,96.0294253 C103.047344,96.0294251 103.047584,96.0294251 103.047825,96.0294253 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(103.050850, 102.689374) rotate(-45.000000) translate(-103.050850, -102.689374) "></path>
+                <polygon id="Rectangle" fill="#D1D5DB" fill-rule="nonzero" transform="translate(87.448465, 89.451142) rotate(-45.000000) translate(-87.448465, -89.451142) " points="86.6316327 86.1893688 88.2623342 86.1901096 88.2652976 92.7129159 86.6345961 92.712175"></polygon>
+                <circle id="Oval" stroke="#9CA3AF" cx="91" cy="10" r="2.5"></circle>
+                <circle id="Oval-Copy-2" stroke="#9CA3AF" cx="116" cy="46" r="2.5"></circle>
+                <circle id="Oval-Copy" stroke="#9CA3AF" cx="4.5" cy="76.5" r="4"></circle>
+                <circle id="Oval-Copy-3" stroke="#9CA3AF" cx="71.5" cy="104.5" r="2"></circle>
+                <g id="Group-13" transform="translate(30.000000, 107.000000)" stroke="#9CA3AF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.36399352">
+                    <line x1="2" y1="0" x2="2" y2="4" id="Path-2"></line>
+                    <line x1="2" y1="0" x2="2" y2="4" id="Path-2-Copy" transform="translate(2.000000, 2.000000) rotate(90.000000) translate(-2.000000, -2.000000) "></line>
+                </g>
+                <g id="Group-13-Copy" transform="translate(16.000000, 15.000000)" stroke="#9CA3AF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25">
+                    <line x1="2.5" y1="0" x2="2.5" y2="5" id="Path-2"></line>
+                    <line x1="2.5" y1="0" x2="2.5" y2="5" id="Path-2-Copy" transform="translate(2.500000, 2.500000) rotate(90.000000) translate(-2.500000, -2.500000) "></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
